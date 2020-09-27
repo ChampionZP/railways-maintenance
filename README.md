@@ -10,3 +10,7 @@ Consider a system type parameter $\beta$ to describe different systems within th
 Policy gradient can be developed for optimizating the repair level in a continues space, e.g., [0, 1]; 
 # Interval prediction/estimation
 Compared with point estimates, interval estimate considers the uncretainty.
+# Classification framework for Yellow and Red
+A generic framework for multisensor degradation modeling based on supervised classification and failure surface
+# Location
+Different locations have different degradation rate, how to model the common factor and the random factors? 
